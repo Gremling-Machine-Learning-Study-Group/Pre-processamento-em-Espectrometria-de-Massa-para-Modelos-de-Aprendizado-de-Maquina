@@ -2,9 +2,8 @@
 
 D. A. S. Mendes, R. J. Rangel, A. B. Pavan, A. F. Tavares da Silva, A. F. Oliveira, I. N. Drummond, G. de Assis Mello
 
-### GREMLING -- Grupo de Pesquisa e Estudos em Machine Learning
-
-### Universidade Federal de Itajubá (UNIFEI)
+GREMLING -- Grupo de Pesquisa e Estudos em Machine Learning
+Universidade Federal de Itajubá (UNIFEI)
 
 
 ## Resumo
@@ -173,19 +172,13 @@ funções disponíveis em cada <span>*software*</span>.
 <td>FAD</td>
 <td>OpenMS é uma base de código que pode ser adaptada para muitas aplicações diferentes, desde a análise livre de rótulo padrão até top down, metabolômica, reticulação ou DIA.</td>
 <td>Livre</td>
-</tr>
 <tr>
-
-</tr>
-<tr>
-<td>msInspect</td>
-<td>A&quot;D&quot;</td>
-<td>(recomendado para identificação de sinais isotópicos)</td>
-<td> </td>
 <td>MZMine 2</td>
 <td>AD</td>
-<td>&quot;É o mais utilizado para detecção de dados espectrais de massas&quot;.Sobre peckpicking: &quot;As funções para essa identificação utilizam diferentes estratégias, destacando o F-score (algoritmo centroidPicker)<br/>do MZmine 2&quot;</td>
-<td> </td>
+<td>&quot;É o mais utilizado para detecção de dados espectrais de massas&quot;.Sobre peckpicking: &quot;As funções para essa identificação utilizam diferentes estratégias, destacando o F-score (algoritmo centroidPicker)<br/>do MZmine 2&quot;]
+</td>
+<td>Livre</td>
+</tr>
 </tbody></table>
 
 
