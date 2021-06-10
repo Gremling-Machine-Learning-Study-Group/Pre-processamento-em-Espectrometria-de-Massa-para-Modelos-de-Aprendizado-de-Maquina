@@ -2,8 +2,9 @@
 
 D. A. S. Mendes, R. J. Rangel, A. B. Pavan, A. F. Tavares da Silva, A. F. Oliveira, I. N. Drummond, G. de Assis Mello
 
-GREMLING -- Grupo de Pesquisa e Estudos em Machine Learning
-Universidade Federal de Itajubá (UNIFEI)
+### GREMLING -- Grupo de Pesquisa e Estudos em Machine Learning
+
+### Universidade Federal de Itajubá (UNIFEI)
 
 
 ## Resumo
