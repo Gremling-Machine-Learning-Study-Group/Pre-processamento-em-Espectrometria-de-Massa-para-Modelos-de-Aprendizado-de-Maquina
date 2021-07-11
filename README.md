@@ -146,7 +146,7 @@ funções disponíveis em cada <span>*software*</span>.
 </tr></thead>
 <tbody><tr>
 <td>XCMS</td>
-<td>F-A-D-N&quot;D&quot;</td>
+<td>F-A-D-N</td>
 <td>XCMS Online é uma plataforma inovadora com uma interface gráfica intuitiva que permite aos usuários fazer upload e processar dados LC / MS para perfis metabólicos não direcionados. O XCMS Online oferece um fluxo de trabalho metabolômico completo, incluindo detecção de recursos, correção de tempo de retenção, alinhamento, anotação e análise estatística.</td>
 <td>Livre</td>
 </tr>
