@@ -146,19 +146,19 @@ funções disponíveis em cada <span>*software*</span>.
 </tr></thead>
 <tbody><tr>
 <td>XCMS</td>
-<td>FA&quot;D&quot;</td>
+<td>F-A-D-N&quot;D&quot;</td>
 <td>XCMS Online é uma plataforma inovadora com uma interface gráfica intuitiva que permite aos usuários fazer upload e processar dados LC / MS para perfis metabólicos não direcionados. O XCMS Online oferece um fluxo de trabalho metabolômico completo, incluindo detecção de recursos, correção de tempo de retenção, alinhamento, anotação e análise estatística.</td>
 <td>Livre</td>
 </tr>
 <tr>
 <td>apLCMS</td>
-<td>FD</td>
+<td>F-D</td>
 <td>Um conjunto de algoritmos para o processamento de dados LC / MS de alta resolução. Os algoritmos são implementados em um pacote R apLCMS, que pode processar com eficiência grandes conjuntos de dados LC / MS.</td>
 <td>Livre</td>
 </tr>
 <tr>
 <td>MAVEN</td>
-<td>FD</td>
+<td>F-D</td>
 <td>É um analisador de dados metabólicos de plataforma cruzada de código aberto. O objetivo deste pacote de software é reduzir a complexidade da análise metabolômica através do desenvolvimento de uma interface altamente intitulada para explorar e validar dados metabolômicos. O programa apresenta alinhador cromatográfico de vários arquivos, detector de características de pico, calculadora de isótopos e adutos, preditor de fórmula, visualizador de vias e animador de fluxo isotópico.</td>
 <td>Livre</td>
 </tr>
@@ -170,12 +170,12 @@ funções disponíveis em cada <span>*software*</span>.
 </tr>
 <tr>
 <td>OpenMS</td>
-<td>FAD</td>
+<td>F-A-D-N</td>
 <td>OpenMS é uma base de código que pode ser adaptada para muitas aplicações diferentes, desde a análise livre de rótulo padrão até top down, metabolômica, reticulação ou DIA.</td>
 <td>Livre</td>
 <tr>
 <td>MZMine 2</td>
-<td>AD</td>
+<td>F-A-D-N</td>
 <td>Programa de código aberto, baseado nas ferramentas originais do MZMine. É o software mais utilizado para detecção de dados espectrais de massas.
 </td>
 <td>Livre</td>
