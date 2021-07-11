@@ -176,7 +176,7 @@ funções disponíveis em cada <span>*software*</span>.
 <tr>
 <td>MZMine 2</td>
 <td>AD</td>
-<td>&quot;É o mais utilizado para detecção de dados espectrais de massas&quot;.Sobre peckpicking: &quot;As funções para essa identificação utilizam diferentes estratégias, destacando o F-score (algoritmo centroidPicker)<br/>do MZmine 2&quot;]
+<td>Programa de código aberto, baseado nas ferramentas originais do MZMine. É o software mais utilizado para detecção de dados espectrais de massas.
 </td>
 <td>Livre</td>
 </tr>
